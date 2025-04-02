@@ -1,0 +1,1 @@
+El Machine Learning es una técnica que permite a las máquinas aprender patrones y hacer predicciones a partir de datos sin intervención humana directa. A través del entrenamiento de modelos con grandes volúmenes de datos, las máquinas pueden identificar patrones y tomar decisiones basadas en ellos.
